@@ -4,8 +4,6 @@ SafeNest is a **women safety web application** designed to provide discreet emer
 
 The platform enables users to **silently trigger emergency help**, record evidence, and share their real-time location with trusted contacts.
 
-This project was developed as part of a **Women’s Day Hackathon** to explore how technology can help improve personal safety and emergency response.
-
 ---
 
 ## Problem Statement
