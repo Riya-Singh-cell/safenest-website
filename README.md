@@ -1,4 +1,11 @@
-# SafeNest – Discreet Domestic Safety Assistant 🌸
+# 🌸 SafeNest – Discreet Domestic Safety Assistant
+
+🚧 **Work in Progress**  
+This project is currently under active development. Some features are still being improved and optimized.
+
+---
+
+## 🚀 Project Overview
 
 SafeNest is a **women safety web application** designed to provide discreet emergency assistance for individuals facing unsafe or abusive environments at home.
 
@@ -6,7 +13,7 @@ The platform enables users to **silently trigger emergency help**, record eviden
 
 ---
 
-## Problem Statement
+## ❗ Problem Statement
 
 Many individuals experiencing domestic violence or unsafe environments **cannot openly access help** through visible applications or calls.
 
@@ -21,7 +28,7 @@ SafeNest aims to solve this problem by creating a **silent digital safety assist
 
 ---
 
-## Solution Overview
+## 💡 Solution Overview
 
 SafeNest provides a **web-based emergency mode** that activates when the user presses the SOS button.
 
@@ -39,7 +46,7 @@ This allows the user to **silently alert others while collecting proof of the si
 
 ---
 
-## Key Features
+## 🔑 Key Features
 
 ### 🚨 SOS Emergency Button
 A large red SOS button instantly activates safety mode.
@@ -74,29 +81,29 @@ The interface is responsive and optimized for smartphones.
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
 
-**APIs & Services**
-- Geolocation API
-- MediaRecorder API
-- OpenStreetMap Reverse Geocoding API
-- Google Apps Script
-- Google Drive Cloud Storage
+### APIs & Services
+- Geolocation API  
+- MediaRecorder API  
+- OpenStreetMap Reverse Geocoding API  
+- Google Apps Script  
+- Google Drive Cloud Storage  
 
-**Development Tools**
-- VS Code
-- Git
-- GitHub
-- Ngrok (for mobile testing)
+### Development Tools
+- VS Code  
+- Git  
+- GitHub  
+- Ngrok (for mobile testing)  
 
 ---
 
-## How SafeNest Works
+## ⚙️ How SafeNest Works
 
 User presses the **SOS button**
 
@@ -123,20 +130,28 @@ If not cancelled, the system:
 
 ---
 
-## Future Improvements
+## 🚧 Current Work in Progress
 
-Possible improvements for the SafeNest system include:
-
-- Integration with **IoT panic buttons**
-- Automatic **continuous video uploads**
-- **AI-based violence detection**
-- Integration with **emergency helpline systems**
-- Secure **encrypted evidence storage**
-- Dedicated **mobile application**
+- Improving UI/UX design for better accessibility  
+- Enhancing real-time alert system reliability  
+- Optimizing video upload performance  
+- Adding secure authentication system  
+- Improving mobile responsiveness  
 
 ---
 
-## Impact
+## 🚀 Future Improvements
+
+- Integration with **IoT panic buttons**  
+- Automatic **continuous video uploads**  
+- **AI-based violence detection**  
+- Integration with **emergency helpline systems**  
+- Secure **encrypted evidence storage**  
+- Dedicated **mobile application**  
+
+---
+
+## 🌍 Impact
 
 SafeNest demonstrates how simple web technologies can be used to build a **life-saving safety tool**.
 
